@@ -6,10 +6,6 @@
 - 具体使用情况，可以参考@youzan/marx-tool[readme.md](http://gitlab.qima-inc.com/enable-platform/marx-tool)
 
 ### Contributing
-- 开发marx框架，需要安装一个全局依赖，用于babel编译
-```bash
-  ynpm i @youzan/catullus -g
-```
 - 开发完成后需要手动执行编译逻辑
 ```bash
   npm run build

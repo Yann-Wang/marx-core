@@ -1,0 +1,13 @@
+{
+  "presets": ["env"],
+  "plugins": [
+      "transform-object-rest-spread",
+      "transform-decorators-legacy",
+      "add-module-exports"
+  ],
+  "env": {
+      "development": {
+          "sourceMaps": "inline"
+      }
+  }
+}
