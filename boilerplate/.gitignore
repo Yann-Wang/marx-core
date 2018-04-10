@@ -1,8 +1,0 @@
-.idea/
-node_modules/
-static/
-yarn.lock
-npm-debug.log
-build/
-dump.rdb
-yarn-error.log
