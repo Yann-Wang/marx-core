@@ -1,5 +1,5 @@
 {
-  "name": "marx",
+  "name": "marx-core",
   "version": "0.1.0",
   "description": "我是马克思，你们的精神领袖 -- 基于koa2的node框架",
   "scripts": {
