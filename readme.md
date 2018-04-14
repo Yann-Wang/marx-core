@@ -1,3 +1,7 @@
+[![NPM](http://nodei.co/npm/marx-core.png?downloads=true)](http://nodei.co/npm/marx-core/)
+
+[![NPM version](https://img.shields.io/npm/v/marx-core.svg)]()
+
 ### 使用
 - 如果仅仅是使用，可以安装脚手架工具marx-tool,
 ```bash

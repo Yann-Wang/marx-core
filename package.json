@@ -1,6 +1,6 @@
 {
   "name": "marx-core",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "我是马克思，你们的精神领袖 -- 基于koa2的node框架",
   "scripts": {
     "build:mkdir": "mkdir base filter middleware || true",
