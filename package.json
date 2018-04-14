@@ -1,7 +1,7 @@
 {
   "name": "marx-core",
   "version": "0.1.1",
-  "description": "我是马克思，你们的精神领袖。",
+  "description": "我是马克思，你们的精神领袖 -- 基于koa2的node框架",
   "scripts": {
     "build:mkdir": "mkdir base filter middleware || true",
     "build:compiler": "ls src | sed 's/\\s+/\\n/g' | xargs -t -I {} catullus babel src/{} --out-dir ./{}",
